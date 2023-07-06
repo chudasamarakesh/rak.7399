@@ -6,5 +6,4 @@ void main ()
     int num= 65;
 
     printf("the value of a is %d and the value of b is %d",number,num);
-
 }
