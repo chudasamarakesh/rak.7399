@@ -9,7 +9,7 @@ scanf("%c",&alphabet);
 
 // check
 
-if(alphabet !='a')
+if(alphabet <'a')
 {
 printf("a is greater");
 
