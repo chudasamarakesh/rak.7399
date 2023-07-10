@@ -2,15 +2,15 @@
 void main()
 {
 
-    int year=0;
+    int number=0;
 
     printf("enter the value of year");
-    scanf("%d",&year);
+    scanf("%d",&number);
 
     // check
 
 
-    if(year% 2==0)
+    if(number% 2==0)
     {
         printf("even");
 
