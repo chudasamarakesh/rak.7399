@@ -15,9 +15,10 @@ void main()
 
         income=income-((income*5)/100);
 
-        printf("your net income ");
+        printf("your net income");
+    }
 
-        else if(income>=300000 && income<500000);
+        else if(income>=300000 && income<500000)
         {
 
         income=income-((income*10)/100);
@@ -26,7 +27,7 @@ void main()
         }
 
 
-        else if(income>=500000 && income<800000);
+        else if(income>=500000 && income<800000)
         {
 
         income=income-((income*20)/100);
@@ -35,7 +36,7 @@ void main()
         }
         
 
-        else if(income>=800000);
+        else if(income>=800000)
         {
 
             income=income-((income*30)/100);
@@ -45,7 +46,7 @@ void main()
 
         }
 
-        else()
+        else
         {
         printf("you are tax freee....");
 
