@@ -9,6 +9,7 @@ void main()
 
     for (vor = 0; vor < 1; vor++)
 
+
     {
         printf("_");
         printf("_");
